@@ -1,0 +1,5 @@
+[12-Mar-2019 11:04:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/bdpibkmt/BdRacingPigeon.bdpigeonweb.com/objects/Pigeon.php:42
+Stack trace:
+#0 /home/bdpibkmt/BdRacingPigeon.bdpigeonweb.com/Pigeons/read.php(18): Pigeon->read()
+#1 {main}
+  thrown in /home/bdpibkmt/BdRacingPigeon.bdpigeonweb.com/objects/Pigeon.php on line 42
